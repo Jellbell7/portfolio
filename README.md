@@ -6,8 +6,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>End-to-End Web Application with AWS</b>
+  - [WildRydes AWS Project](https://github.com/Jellbell7/wildrydes-site)
+      - This project is a web application for a ride-sharing service called WildRydes. Different AWS services such as AWS IAM, Amplify, Cognito, Lambda, API Gateway and DynamoDB are incorporated to host and maintain the app.
 
 - <b>React JS Tasklist Prototype</b>
   - [Tasklist](https://github.com/Jellbell7/task-list-tutorial)
