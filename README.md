@@ -10,9 +10,13 @@
   - [WildRydes AWS Project](https://github.com/Jellbell7/wildrydes-site)
       - This project is a web application for a ride-sharing service called WildRydes. Different AWS services such as AWS IAM, Amplify, Cognito, Lambda, API Gateway and DynamoDB are incorporated to host and maintain the app.
 
-- <b>React JS Web Application with Github Copilot</b>
+- <b>Python Web Application with Github Copilot</b>
   - [Planventure](https://github.com/Jellbell7/planventure-api-start)
      - Planventure is a travel itinerary builder that uses a Flask-based REST API. This project explores the capabilities of Github Copilot AI in the development of a web application.
+   
+- <b>React JS Quiz App</b>
+  - [Quiz App](https://github.com/Jellbell7/react-quiz-app)
+     - This project is a quiz that displays a question and four multiple choice answers. A user can select a choice and see their score at the end. This project is a web application made with React JS.
 
 - <b>React JS Tasklist Prototype</b>
   - [Tasklist](https://github.com/Jellbell7/task-list-tutorial)
