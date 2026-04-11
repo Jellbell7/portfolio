@@ -9,7 +9,9 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-
+- <b>React JS Tasklist Prototype</b>
+  - [Tasklist](https://github.com/Jellbell7/task-list-tutorial)
+     - This prototype demonstrates a Tasklist for goals and to-dos. New tasks can be added and updated and removed from the list when completed.
 
 <h2> 🤳 Connect with me:</h2>
 
