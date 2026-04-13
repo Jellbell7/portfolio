@@ -22,6 +22,12 @@
   - [Tasklist](https://github.com/Jellbell7/task-list-tutorial)
      - This prototype demonstrates a Tasklist for goals and to-dos. New tasks can be added and updated and removed from the list when completed.
 
+<h2>👨‍💻 College Projects</h2>
+
+- <b>Peer Review Survey Website with AWS</b>
+  - [Ramblin' Wreck Reviews](https://ramblinwreckreviews.com/about)
+     - For my Cornerstone Design Project, I created a peer review survey taker that allows students to evaluate their peers for group projects. This application uses AWS API Gateway with Python Lambda functions to connect to a PostgreSQL database in RDS. The front end has an admin page, professor page, and student page made with TypeScript that lets surveys be created and professors and admins added to a survey. 
+
 <h2> 🤳 Connect with me:</h2>
 
 Email at jenellegilliland@gmail.com
