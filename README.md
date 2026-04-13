@@ -28,6 +28,9 @@
   - [Ramblin' Wreck Reviews](https://ramblinwreckreviews.com/about)
      - For my Cornerstone Design Project, I created a peer review survey taker that allows students to evaluate their peers for group projects. This application uses AWS API Gateway with Python Lambda functions to connect to a PostgreSQL database in RDS. The front end has an admin page, professor page, and student page made with TypeScript that lets surveys be created and professors and admins added to a survey. 
 
+- <b>GameMaker Studio Video Game</b>
+  - [Attack of the Cakes](https://github.com/Jellbell7/AttackOfTheCakes)
+     - I created a 2D platformer video game called Attack of the Cakes. This game was made with GameMaker Studio using GML, GameMaker's built-in programming language. The goal of the game is to fight through levels of enemies and defeat bosses to advance to the next level.
 <h2> 🤳 Connect with me:</h2>
 
 Email at jenellegilliland@gmail.com
