@@ -9,6 +9,10 @@
 - <b>End-to-End Web Application with AWS</b>
   - [WildRydes AWS Project](https://github.com/Jellbell7/wildrydes-site)
       - This project is a web application for a ride-sharing service called WildRydes. Different AWS services such as AWS IAM, Amplify, Cognito, Lambda, API Gateway and DynamoDB are incorporated to host and maintain the app.
+   
+- <b>React JS E-commerce Prototype</b>
+  - [Seashell Shop](https://github.com/Jellbell7/Seashell-Shop-Prototype)
+      - This project is a React JS e-commerce prototype that sells painted seashells. This prototype displays cards of different products that can be bought. A user can click on a card to see a product's description and price. When a user buys a product, that item is added to their shopping cart. Users can view their cart in a sidebar to confirm their purchase.
 
 - <b>Python Web Application with Github Copilot</b>
   - [Planventure](https://github.com/Jellbell7/planventure-api-start)
