@@ -6,13 +6,17 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>End-to-End Web Application with AWS</b>
-  - [WildRydes AWS Project](https://github.com/Jellbell7/wildrydes-site)
-      - This project is a web application for a ride-sharing service called WildRydes. Different AWS services such as AWS IAM, Amplify, Cognito, Lambda, API Gateway and DynamoDB are incorporated to host and maintain the app.
-   
+- <b>Power BI Supply Chain Proof of Concept</b>
+  - [Samsung Supply Chain](https://github.com/Jellbell7/PowerBI-Samsung-Supply-Chain-Dashboard)
+      - I created a Proof Of Concept report in Power BI to show the successes and weak points in the supply chain for Samsung. I highlighted key statistics such as defect and turnover rate through pie charts and the number of shipments for each brand. For simplicity, I organized each stage of the supply chain into its own page in the report. 
+
 - <b>React JS E-commerce Prototype</b>
   - [Seashell Shop](https://github.com/Jellbell7/Seashell-Shop-Prototype)
       - This project is a React JS e-commerce prototype that sells painted seashells. This prototype displays cards of different products that can be bought. A user can click on a card to see a product's description and price. When a user buys a product, that item is added to their shopping cart. Users can view their cart in a sidebar to confirm their purchase.
+   
+- <b>End-to-End Web Application with AWS</b>
+  - [WildRydes AWS Project](https://github.com/Jellbell7/wildrydes-site)
+      - This project is a web application for a ride-sharing service called WildRydes. Different AWS services such as AWS IAM, Amplify, Cognito, Lambda, API Gateway and DynamoDB are incorporated to host and maintain the app.
 
 - <b>Python Web Application with Github Copilot</b>
   - [Planventure](https://github.com/Jellbell7/planventure-api-start)
